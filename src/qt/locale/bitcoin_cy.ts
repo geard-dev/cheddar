@@ -154,8 +154,8 @@
         <translation>Newid y cyfrinymadrodd a ddefnyddiwyd ar gyfer amgryptio'r waled</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>Cheddar</source>
+        <translation>Cheddar</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -640,8 +640,8 @@
         <translation>Opsiynau:</translation>
     </message>
     <message>
-        <source>Litecoin Core</source>
-        <translation>Craidd Litecoin</translation>
+        <source>Cheddar Core</source>
+        <translation>Craidd Cheddar</translation>
     </message>
     <message>
         <source>Information</source>
