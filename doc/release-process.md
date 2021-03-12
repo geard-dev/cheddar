@@ -273,7 +273,7 @@ Note: check that SHA256SUMS itself doesn't end up in SHA256SUMS, which is a spur
 
   - blog.cheddar.org blog post
 
-  - Update title of #cheddar and #cheddar-dev on Freenode IRC
+  - Update title of #cheddar-coin and #cheddar-coin-dev on Freenode IRC
 
   - Optionally twitter, reddit /r/Cheddar, ... but this will usually sort out itself
 

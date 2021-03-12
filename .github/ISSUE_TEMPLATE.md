@@ -4,7 +4,7 @@ This issue tracker is only for technical issues related to cheddar-core.
 
 General cheddar questions and/or support requests and are best directed to the [cheddartalk.io forums](https://cheddartalk.io/).
 
-For reporting security issues, please contact the Cheddar developers on the #cheddar-dev Freenode IRC channel or alternatively you can email us at contact@cheddar.org.
+For reporting security issues, please contact the Cheddar developers on the #cheddar-coin-dev Freenode IRC channel or alternatively you can email us at contact@cheddar.org.
 
 ### Describe the issue
 

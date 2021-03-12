@@ -14,9 +14,6 @@ with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Cheddar Core is the name of open source
 software which enables the use of this currency.
 
-For more information, as well as an immediately useable, binary version of
-the Cheddar Core software, see [https://cheddar.org](https://cheddar.org).
-
 License
 -------
 
@@ -36,7 +33,7 @@ The developer [mailing list](https://groups.google.com/forum/#!forum/cheddar-dev
 should be used to discuss complicated or controversial changes before working
 on a patch set.
 
-Developer IRC can be found on Freenode at #cheddar-dev.
+Developer IRC can be found on Freenode at #cheddar-coin.
 
 Testing
 -------

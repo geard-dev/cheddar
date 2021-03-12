@@ -30,7 +30,7 @@ Drag Cheddar-Core to your applications folder, and then run Cheddar-Core.
 
 * See the documentation at the [Cheddar Wiki](https://cheddar.info/)
 for help and more information.
-* Ask for help on [#cheddar](http://webchat.freenode.net?channels=cheddar) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=cheddar).
+* Ask for help on [#cheddar-coin](http://webchat.freenode.net?channels=cheddar) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=cheddar).
 * Ask for help on the [CheddarTalk](https://cheddartalk.io/) forums.
 
 Building
@@ -62,7 +62,7 @@ The Cheddar repo's [root README](/README.md) contains relevant information on th
 
 ### Resources
 * Discuss on the [CheddarTalk](https://cheddartalk.io/) forums.
-* Discuss general Cheddar development on #cheddar-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=cheddar-dev).
+* Discuss general Cheddar development on #cheddar-coin-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=cheddar-dev).
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)
