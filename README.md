@@ -1,3 +1,5 @@
+**This is the old repository for Cheddar, I decided to make it based off Etherium instead, so go to [the new one](https://github.com/geard-dev/cheddar)**
+
 Cheddar Core integration/staging tree
 =====================================
 
