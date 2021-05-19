@@ -103,7 +103,7 @@ public:
         consensus.vDeployments[Consensus::DEPLOYMENT_SEGWIT].nTimeout = 1517356801;   // January 31st, 2018
 
         // The best chain should have at least this much work.
-        consensus.nMinimumChainWork = uint256S("0x0000000000000000000000000000000000000000000000000000000000000000");
+        consensus.nMinimumChainWork = uint256S("0x00");
 
         // By default assume that the signatures in ancestors of this block are valid.
         consensus.defaultAssumeValid = uint256S("0x59c9b9d3fec105bdc716d84caa7579503d5b05b73618d0bf2d5fa639f780a011"); //1353397
@@ -117,7 +117,7 @@ public:
         pchMessageStart[1] = 0x5e;
         pchMessageStart[2] = 0x7b;
         pchMessageStart[3] = 0x6e;
-        nDefaultPort = 4322;
+        nDefaultPort = 8865;
         nPruneAfterHeight = 100000;
 
         genesis = CreateGenesisBlock(1615494803, 325139133, 0x1e0ffff0, 1, 50 * COIN);
